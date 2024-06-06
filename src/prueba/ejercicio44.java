@@ -16,7 +16,7 @@ public class ejercicio44 {
 		
 			
 			if(dni[i] %2 == 0) {
-				System.out.println(dni);
+				System.out.println(dni[i]);
 				
 			}
 		
