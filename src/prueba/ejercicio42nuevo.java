@@ -22,6 +22,7 @@ public class ejercicio42nuevo {
 		for (int i = 0; i < nombres.length; i++) {
 
 			if (codigoBuscado == nro_de_socio[i]) {
+				// PARA LISTAS codigoBuscad == nro_de_socio.get(i)
 				nro_Encontrado = nro_de_socio[i];
 				nombreEncontrado = nombres[i];
 				encontrado = true;
