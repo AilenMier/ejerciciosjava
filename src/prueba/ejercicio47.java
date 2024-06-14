@@ -74,7 +74,7 @@ public class ejercicio47 {
 		int nro_Encontrado = 0;
 		String nombreEncontrado = "";
 		
-		System.out.println("Ingrese un socio a buscar: ");
+		System.out.println("Ingrese un numero de socio a buscar: ");
 		int codigoBuscado = dato.nextInt();
 		
 		for (int i = 0; i < listaNombre.size(); i++) {
